@@ -1,0 +1,34 @@
+body{
+    background-color: coral;
+}
+.header1{
+    border: black dotted ;
+    background-color: cornsilk;
+    margin: 30px;
+    margin-right: 500px;
+    margin-left: 500px;
+    
+    
+}
+.box{
+    color: white;
+    background-color: blue;
+    border-collapse: collapse;
+    margin-right: 429px;
+    border-radius: 20px;    
+    margin-left: 5px;
+    text-align: center;
+
+    
+}
+.header2
+{
+    text-align: center;
+    margin: 50px;
+    margin-right: 1200px;
+    background-color: turquoise;
+    border-radius: 40px;
+    border-collapse: collapse;
+    
+    
+}

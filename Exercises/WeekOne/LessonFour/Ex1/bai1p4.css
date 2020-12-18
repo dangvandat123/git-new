@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat: initial;
+    background-color: ;
+    background-color:coral;
+    
+}
+#font{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mid{
+    text-align: center;
+}
+.one{
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: pink;
+    
+}
+header{
+    padding: 30px;
+    border-style: solid;
+}
+.text{
+    text-align: center;
+    padding: 5px;
+}
+.link{
+    text-decoration: none;
+}
+.font2{
+    font-family: 'Courier New', Courier, monospace;
+}
+    
