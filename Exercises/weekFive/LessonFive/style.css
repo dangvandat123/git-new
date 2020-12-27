@@ -1,0 +1,130 @@
+body{
+    font-family: 'Lora', serif;
+    color: white;
+}
+.header_page{
+    position: relative;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url('file:///F:/xamp/htdocs/git-new/Exercises/weekFive/Materrial/header.jpg');
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+}
+.nav {
+    padding: 20px;
+}
+.nav p{
+    position: relative;
+    display: inline;
+    font-size: 40px;
+}
+.menu{
+    position: absolute;
+    display: inline;
+    /* top: 50%; */
+    right:0;
+    /* transform: translateY(-50%); */
+    padding-right: inherit;
+}
+.menu li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 15px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+.action{
+    padding: 10px 15px;
+    border: 1px solid white;
+    border-radius:100px;
+    transition: 0.3s;
+}
+.action:hover {
+    background-color: white;
+}
+.action:hover a{
+    color:black;
+}
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.title h1{
+    font-weight: 400;
+    font-size: 48px;
+    letter-spacing: 3px;
+}
+.title button{
+    background-color: rgb(54, 179, 168);
+    color: white;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 15px;
+    transition: 0.2s;
+}
+.title button:hover {
+    background-color: rgb(54, 179, 168,0.6);
+    cursor: pointer;
+}
+.body_page{
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    margin: 100px 125px;
+}
+.title_bodyPage{
+    text-align: center;
+}
+.title_bodyPage h3{
+    font-size: 28px;
+}
+.title_bodyPage p{
+    line-height: 36px;
+    margin-top: 16px;
+}
+
+
+.content_bodyPage{
+    margin-top: 24px;
+    width: 100%;
+    height: 65vh;
+}
+.content{
+    position: relative;
+    width: calc(50% - 20px);
+    float: left;
+    text-align: center;
+    word-spacing: 2px;
+    line-height: 36px;
+}
+.content1{
+    margin-right: 20px;
+}
+.content img{
+    width: 100%;
+}
+.title_image{
+    color: rgb(61, 153, 145);
+    margin-bottom: 24px;
+}
+footer{
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.title_footer{
+    padding-top: 75px;
+}
+.end{
+    padding-top: 16px;
+    padding-bottom: 75px;
+    color: gray;
+}
