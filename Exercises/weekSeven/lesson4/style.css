@@ -1,0 +1,64 @@
+.text{
+    text-align: center;
+}
+body{
+    background-color: gainsboro;
+}
+.firstname{
+    width: 1300px;
+    height: 30px;   
+    
+}
+.name{
+    width: 1300px;
+    height: 30px;
+}
+.log{
+    width: 1300px;
+    height: 30px;   
+}
+.email{
+    width: 1300px;
+    height: 30px;
+}
+.pass1{
+    width: 1300px;
+    height: 30px;
+}
+.pass2{
+    width: 1300px;
+    height: 30px;
+}
+.time{
+    width: 1300px;
+    height: 30px;
+}
+.ques{
+    width: 1270px;
+    height: 30px;
+}
+.rep{
+    width: 1300px;
+    height: 30px;
+}
+.button1{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+.button2{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+    
+}
+.input{
+    padding-left: 90px;
+}
+.input2{
+    text-align: center;
+}
+.select{
+    height: 35px;
+}

@@ -1,0 +1,54 @@
+.li3{
+    float: right;
+   padding-right: 300px;
+}
+.li2{
+    float: right;
+    padding-right: 100px;
+}
+.li1{
+    float: right;
+    padding-right: 100px;
+}
+.box{
+    
+    background-color:black;
+    width: 1520px;
+    height: 200px;
+    color: white;
+    border-collapse: collapse;
+    
+}
+.button1{
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    font-size: 20px;
+}
+.email{
+    width: 200px;
+}
+.color2{
+    background-color: lightslategray;
+    height: 100px;
+
+}
+.li{
+    padding-left: 200px;
+}
+.color1{
+    width: 1500px;
+    height: 400px;
+    padding-left: 200px;
+    
+    
+}
+.text{
+    padding-left: 100px;
+}
+.text1{
+    padding-left: 750px;
+}
+.button{
+    padding-left: 50px;
+}

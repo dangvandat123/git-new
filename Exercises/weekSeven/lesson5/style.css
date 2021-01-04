@@ -1,0 +1,69 @@
+.text1{
+    position: absolute;
+    top: 10px;
+    width: 500px;
+    height: 200px;
+    background-color: dimgray;
+    color: white;
+    overflow: hidden;
+    display: block;
+    opacity: 0.7;
+    margin-top: 400px;
+    margin-left: 60px;
+    padding-left: 20px;
+    
+}
+hr{
+    background-color: white;
+    width: 70px;
+    height: 5px;
+    margin-left: 1px;
+    
+   
+}
+.img{
+    background-size: cover;
+    height: 700px;
+    
+    
+}
+
+.button2{
+    width: 200px;
+    height: 50px;
+    margin-left: 100px;
+}
+.right{
+    float: right;
+    padding-left: 50px;
+    padding-bottom: 90px;
+    color: blue;
+    
+}
+
+.button{
+    width: 200px;
+    height: 50px;
+    background-color: lightgreen;
+    margin-left: 100px;
+    
+}
+.name{
+    width: 350px;
+    height: 30px;
+}
+.email{
+    width: 350px;
+    height: 30px;
+}
+.pass{
+    width: 350px;
+    height: 30px;
+}
+.code{
+    width: 350px;
+    height: 30px;
+}
+.link{
+    padding-left:150px ;
+}
