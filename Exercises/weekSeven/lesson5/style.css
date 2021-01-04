@@ -67,3 +67,8 @@ hr{
 .link{
     padding-left:150px ;
 }
+.main{
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+}
