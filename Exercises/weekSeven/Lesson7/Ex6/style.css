@@ -1,0 +1,57 @@
+.face{
+    width: 100px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: white;
+}
+.google{
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    background-color:red;
+    color: white;
+}   
+.phone{
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: greenyellow;
+    color: white;
+}
+.text{
+    text-align: center;
+    padding-left: 110px;
+}
+.text-below{
+    
+    padding-left: 150px;
+}
+.email{
+    width: 340px;
+    height: 30px;
+}
+.pass{
+    width: 340px;
+    height: 30px;
+}
+.nopass{
+    padding-left: 90px;
+}
+.button-log{
+    width: 350px;
+    height: 50px;
+    background-color: lightskyblue;
+}
+.button-registration{
+    width: 350px;
+    height: 50px;
+}
+.text-quess{
+    padding-left: 100px;
+}
+.main{
+    margin-left: 600px;
+    border: 2px solid blue;
+    margin-right: 550px;
+    border-width: 10px;
+}

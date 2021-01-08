@@ -1,0 +1,37 @@
+.box-outside{
+    width: 500px;
+    height: 500px;
+    background-color: dimgray;
+    border-style: solid;
+    
+}
+.box-inside{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    width: 200px;
+    height: 100px;
+    background-color:grey;
+    text-align: center;
+    border-style: solid;
+}
+.text-img{
+    text-align: center;
+    font-size: 20px;
+}
+.text-information{
+    padding-left: 100px;
+    font-size: 20px;
+}
+.text-name{
+    padding-left: 100px;
+    font-size: 20px;  
+}
+.text-age{
+    padding-left: 100px;
+    font-size: 20px;
+}
+.text-characters{
+    padding-left: 100px;
+    font-size: 20px;
+}

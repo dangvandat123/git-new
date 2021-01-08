@@ -1,0 +1,43 @@
+.img{
+   width: 540px;
+
+    
+}
+.text{
+    padding-top: 30px;
+    font-size: 60px;
+    font-family: monospace;
+    color: #FFCC00;
+    position: absolute;
+    padding-left: 140px
+    
+    
+}
+.main{
+    text-align: center;
+    margin-left: 500px;
+}
+.text-liteature{
+    position: absolute;
+    padding-top: 200px;
+    padding-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:white;
+
+}
+.button-join{
+    position: absolute;
+    margin-top: 600px;
+    width: 200px;
+    height: 40px;
+    margin-left: 170px;
+    border-radius: 50px;
+    border-color: white;
+    color: white;
+    background-color: blue;
+}
+.color{
+    color: #FFCC00;
+}
+

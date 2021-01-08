@@ -1,0 +1,54 @@
+.li-setting{
+    float: right;
+   padding-right: 300px;
+}
+.li-media{
+    float: right;
+    padding-right: 100px;
+}
+.li-about{
+    float: right;
+    padding-right: 100px;
+}
+.box{
+    
+    background-color:black;
+    width: 1520px;
+    height: 200px;
+    color: white;
+    border-collapse: collapse;
+    
+}
+.button-number{
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    font-size: 20px;
+}
+.email{
+    width: 200px;
+}
+.color-bot{
+    background-color: lightslategray;
+    height: 100px;
+
+}
+.li{
+    padding-left: 200px;
+}
+.color-top{
+    width: 1500px;
+    height: 400px;
+    padding-left: 200px;
+    
+    
+}
+.text{
+    padding-left: 100px;
+}
+.text-conclusion{
+    padding-left: 750px;
+}
+.button{
+    padding-left: 50px;
+}

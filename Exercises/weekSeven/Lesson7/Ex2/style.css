@@ -1,0 +1,33 @@
+.text{
+    color: gold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.IBM{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.img-IBM{
+   width: 400px;
+   height: 100px;
+}
+.microsof{
+    padding-left: 300px;
+   
+}
+.img-microsof{
+    width: 400px;
+    height: 100px;
+}
+.img-apple{
+    width: 300px;
+    height: 100px;
+}
+.img-google{
+    width: 300px;
+    height: 100px;
+}
+.google{
+    padding-left: 300px;
+}

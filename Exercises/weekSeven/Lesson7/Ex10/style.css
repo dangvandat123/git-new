@@ -1,0 +1,18 @@
+.number{
+    float: right;
+}
+.text{
+    text-align: center;
+}
+.text-information{
+    text-align: center;
+}
+.text-main{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    margin-bottom: 100px;
+}
+.pading{
+    margin-left: 460px;
+}

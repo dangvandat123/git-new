@@ -1,0 +1,64 @@
+.text{
+    text-align: center;
+}
+body{
+    background-color: gainsboro;
+}
+.firstname{
+    width: 1300px;
+    height: 30px;   
+    
+}
+.name{
+    width: 1300px;
+    height: 30px;
+}
+.log{
+    width: 1300px;
+    height: 30px;   
+}
+.email{
+    width: 1300px;
+    height: 30px;
+}
+.pass{
+    width: 1300px;
+    height: 30px;
+}
+.pass-repeat{
+    width: 1300px;
+    height: 30px;
+}
+.time{
+    width: 1300px;
+    height: 30px;
+}
+.ques{
+    width: 1270px;
+    height: 30px;
+}
+.rep{
+    width: 1300px;
+    height: 30px;
+}
+.button-reset{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+.button-agree{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+    
+}
+.input-ask{
+    padding-left: 90px;
+}
+.input-confirm{
+    text-align: center;
+}
+.select{
+    height: 35px;
+}

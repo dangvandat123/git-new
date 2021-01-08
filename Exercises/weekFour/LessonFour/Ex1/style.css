@@ -26,11 +26,18 @@ header{
 .text{
     text-align: center;
     padding: 5px;
+    background-color: yellow;
 }
 .link{
     text-decoration: none;
 }
 .font2{
     font-family: 'Courier New', Courier, monospace;
+    color: white;
 }
-    
+.font{
+    color: red;
+}  
+.color{
+    color: white;
+}
