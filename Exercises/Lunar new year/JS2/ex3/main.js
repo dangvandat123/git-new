@@ -1,0 +1,33 @@
+$(document).ready(function(){
+    $(document).on("click","button:not(:last)",function(){
+        if($("#one").val()==''){
+            $("#one").next().html("* Không được để trống!");
+        }else{
+            $("#one").next().html("*");
+        }
+        if($("#two").val()==''){
+            $("#two").next().html("* Không được để trống!");
+        }else{
+            $("#two").next().html("*");
+        }
+        if($("#one").val()!=''&&$("#two").val()!=''){
+            $(document).on("click","#cong",function(){
+                $("#KQ").val(parseFloat($("#one").val())+parseFloat($("#two").val()));
+            })
+            $(document).on("click","#tru",function(){
+                $("#KQ").val($("#one").val()-$("#two").val());
+            })
+            $(document).on("click","#nhan",function(){
+                $("#KQ").val($("#one").val()*$("#two").val());
+            })
+            $(document).on("click","#chia",function(){
+                $("#KQ").val($("#one").val()/$("#two").val());
+            })
+        }
+    })
+    $(document).on("click","button:last",function(){
+        $("#one").val('');
+        $("#two").val('');
+        $("#KQ").val('');
+    })
+})
