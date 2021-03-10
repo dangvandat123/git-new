@@ -4,6 +4,13 @@
     while ($i<50) {
         $thutu += $i;
         $i++;
-        echo "$i-";
+        if ($i == 50) {
+            echo "$i";
+        }
+        else {
+            echo $i ."-";
+        } 
+
+
     }
 ?>
