@@ -11,16 +11,11 @@
     } 
     echo " Tổng = $tong" ."<br>";
     while ($i >=20 and $i <= 50){
-        echo "$i,";
-        $chia +=$i;
+        echo "$i,"."<br>";
+        $tong +=$i;
         $i++;
-       
-
-
+        if ($i % 3 ==0) {  
+           $chia   
+        }
     }
-    if ($i % 3 ==0) {  
-        echo "các só chia hết cho 3 : $i";
-    }
-    
-    
 ?>
