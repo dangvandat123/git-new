@@ -10,11 +10,11 @@
     <?php
         $a =10;
         $b =6;
-        echo "Tổng =".$a+$b . "<br>";
-        echo "Hiệu =".$a-$b . "<br>";
-        echo "Tích =".$a*$b . "<br>";
-        echo "thương =".$a/$b . "<br>";
-        echo "chia dư =".$a % $b . "<br>";
+        echo "Tổng =".($a+$b) . "<br>";
+        echo "Hiệu =".($a-$b) . "<br>";
+        echo "Tích =".($a*$b) . "<br>";
+        echo "thương =".($a/$b) . "<br>";
+        echo "chia dư =".($a % $b) . "<br>";
     ?>
 </body>
 </html>
